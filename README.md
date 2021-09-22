@@ -11,7 +11,7 @@ I believe web applications are the future and will replace our desktop programs 
 
 “Design is not just what it looks like and feels like, design is how it works.” — Steve Jobs
 
-You can reach me via my website at www.bouma.tech.
+You can reach me via my website at www.rhavis.tech.
 
 It's a pleasure to meet you.
 
