@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning news features in K8S, Istio and Golang
 
-# Working to make the internet a better and more secure place one step at a time.
+### Working to make the internet a better and more secure place one step at a time.
 I believe web applications are the future and will replace our desktop programs and mobile apps, that’s why they should be usable by everyone and everywhere no matter the device, screen size and speed. While they provide these pros, they should also be secure and privacy oriented.
 
 “Design is not just what it looks like and feels like, design is how it works.” — Steve Jobs
