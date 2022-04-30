@@ -13,7 +13,7 @@ I believe web applications are the future and will replace our desktop programs 
 
 You can reach me via my website at www.rhavis.tech.
 
-You can follow us repo https://github.com/rhavistech.
+You can follow our repository with tech talk and new technologies https://github.com/rhavistech.
 
 It's a pleasure to meet you.
 
