@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Instituto Atlântico in a client HP Company. I love working here because I'm constantly updating about new technologies.
 
-🌱 I’m currently learning news features in K8S, Istio and Golang
+🌱 I’m currently learning news features in K8S, AWS and Golang.
 
 ### Working to make the internet a better and more secure place one step at a time.
 I believe web applications are the future and will replace our desktop programs and mobile apps, that’s why they should be usable by everyone and everywhere no matter the device, screen size and speed. While they provide these pros, they should also be secure and privacy oriented.
@@ -12,6 +12,7 @@ I believe web applications are the future and will replace our desktop programs 
 “Design is not just what it looks like and feels like, design is how it works.” — Steve Jobs
 
 You can reach me via my website at www.rhavis.tech.
+You can follow us repo https://github.com/rhavistech.
 
 It's a pleasure to meet you.
 
