@@ -2,9 +2,9 @@
 
 ## About me
 
-🔭 I’m currently working on Instituto Atlântico in a client HP Company. I love working here because I'm constantly updating about new technologies.
+🔭 I’m currently working on Defined.AI. I love working here because I'm constantly updating about new technologies.
 
-🌱 I’m currently learning news features in K8S, AWS and Golang.
+🌱 I’m currently learning news features in K8S, AWS, Azure, Golang and Python.
 
 ### Working to make the internet a better and more secure place one step at a time.
 I believe web applications are the future and will replace our desktop programs and mobile apps, that’s why they should be usable by everyone and everywhere no matter the device, screen size and speed. While they provide these pros, they should also be secure and privacy oriented.
